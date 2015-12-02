@@ -25,7 +25,39 @@
 			 <Mapeamento>Município</Mapeamento>
 		  </MapeamentoMetadado>
 	   </ListaMetadados>
-		<ListaEstados>
+		Evandro
+
+
+Pesquisar no Google Drive
+
+Drive
+.
+Caminho da pasta
+8-AplicacoesMoveisv2
+UPA
+NOVO 
+Pastas e visualizações
+Meu Drive
+Compartilhados comigo
+Google Fotos
+Recentes
+Com estrela
+Lixeira
+.
+
+Planilhas Google
+UPA
+
+Arquivo desconhecido
+upa-uf_municipios-v2.xml
+
+Arquivo desconhecido
+upa-uf_municipios.xml
+Instalar o Drive para PC
+5 GB de 15 GB usados
+Fazer upgrade do armazenamento
+
+<ListaEstados>
 
 	<Estado>
 		<Nome>Acre (AC)</Nome>
@@ -573,7 +605,7 @@
 	</Estado>
 
 	<Estado>
-		<Nome>Rio de Janeiro (RJ) </Nome>
+		<Nome>RJ</Nome>
 		<ListaMunicipios>
 			<Municipio>
 				<Nome>Angra dos Reis</Nome>
@@ -771,7 +803,7 @@
 	</Estado>
 
 	<Estado>
-		<Nome>São Paulo (SP)</Nome>
+		<Nome>SP</Nome>
 		<ListaMunicipios>
 			<Municipio>
 				<Nome>Americana</Nome>
@@ -983,7 +1015,6 @@
 		</ListaMunicipios>
 	</Estado>
 
-	</ListaEstados>
-		
+</ListaEstados>	
 	</Recurso>
 </UbsPac>

@@ -2,27 +2,26 @@
 <UbsPac>
 	<Recurso>
 		<Nome>UPA</Nome>
-		<Url>http://189.9.137.169:8080/geoserver/pac/wms?service=WFS&amp;version=1.0.0&amp;request=GetFeature&amp;typeName=pac:upa&amp;outputFormat=JSON</Url>
-		<Formato>JSON</Formato>
+		<Url>https://rawgit.com/evandrorocha/upapac/master/upa.csv</Url>
+		<Formato>CSV</Formato>
 		<Dimensao>Georreferenciamento</Dimensao>
-		<PosicaoLatitude>1</PosicaoLatitude>
-		<PosicaoLongitude>0</PosicaoLongitude>
+		<Separador>,</Separador>
 		<CamposObrigatorios>
-		  <Latitude>lat</Latitude>
-		  <Longitude>long</Longitude>
-		  <Titulo>empreendimento</Titulo>
+		  <Latitude>latitude</Latitude>
+		  <Longitude>longitude</Longitude>
+		  <Titulo>no_fantasia</Titulo>
 	    </CamposObrigatorios>
 		<ListaMetadados>
 		  <MapeamentoMetadado>
-			 <Original>empreendimento</Original>
+			 <Original>no_fantasia</Original>
 			 <Mapeamento>Nome</Mapeamento>
 		  </MapeamentoMetadado>
 		  <MapeamentoMetadado>
-			 <Original>unidade_federativa</Original>
+			 <Original>uf</Original>
 			 <Mapeamento>Estado</Mapeamento>
 		  </MapeamentoMetadado>
 		  <MapeamentoMetadado>
-			 <Original>municipio</Original>
+			 <Original>cidade</Original>
 			 <Mapeamento>Município</Mapeamento>
 		  </MapeamentoMetadado>
 	   </ListaMetadados>

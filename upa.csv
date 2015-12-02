@@ -1,4 +1,4 @@
-gid,co_cep,uf,cidade,no_fantasia,no_bairro,nu_endereco,no_logradouro,nu_telefone,ano_upa_func,mes_upa_func,fonte_recurso,porte,latitude,longitude
+gid,co_cep,uf,cidade,no_fantasia,no_bairro,nu_endereco,no_logradouro,nu_telefone,ano_upa_func,mes_upa_func,fonte_recurso,porte,longitude,latitude
 2680017,,RO,Porto Velho,UPA ZONA SUL,COHAB FLORESTA,S/N,RUA URTIGA VERMELHA COM JATUARANA,(69)2271083,2015,10,MS,2,-63.87795031,-8.787617415
 6008054,32041-440,MG,Contagem,UNIDADE DE PRONTO ATENDIMENTO UNIDADE XVI UPA XVI,CENTRO,47,JOAQUIM CAMARGO,33987036,2015,10,MS,2,-44.08074,-19.91056
 7136552,24120-395,RJ,Niterói,SES RJ UPA 24 H FONSECA,FONSECA,107,RUA SA BARRETO,21-26257807,2015,10,MS,3,-43.104,-22.883

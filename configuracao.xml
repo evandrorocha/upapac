@@ -25,37 +25,6 @@
 			 <Mapeamento>Município</Mapeamento>
 		  </MapeamentoMetadado>
 	   </ListaMetadados>
-		Evandro
-
-
-Pesquisar no Google Drive
-
-Drive
-.
-Caminho da pasta
-8-AplicacoesMoveisv2
-UPA
-NOVO 
-Pastas e visualizações
-Meu Drive
-Compartilhados comigo
-Google Fotos
-Recentes
-Com estrela
-Lixeira
-.
-
-Planilhas Google
-UPA
-
-Arquivo desconhecido
-upa-uf_municipios-v2.xml
-
-Arquivo desconhecido
-upa-uf_municipios.xml
-Instalar o Drive para PC
-5 GB de 15 GB usados
-Fazer upgrade do armazenamento
 
 <ListaEstados>
 
@@ -238,9 +207,6 @@ Fazer upgrade do armazenamento
 			<Municipio>
 				<Nome>Brasília</Nome>
 			</Municipio>
-			<Municipio>
-				<Nome></Nome>
-			</Municipio>
 		</ListaMunicipios>
 	</Estado>
 
@@ -249,9 +215,6 @@ Fazer upgrade do armazenamento
 		<ListaMunicipios>
 			<Municipio>
 				<Nome>Serra</Nome>
-			</Municipio>
-			<Municipio>
-				<Nome></Nome>
 			</Municipio>
 		</ListaMunicipios>
 	</Estado>
@@ -605,7 +568,7 @@ Fazer upgrade do armazenamento
 	</Estado>
 
 	<Estado>
-		<Nome>Rio de Janeiro (RJ)</Nome>
+		<Nome>RJ</Nome>
 		<ListaMunicipios>
 			<Municipio>
 				<Nome>Angra dos Reis</Nome>
@@ -803,7 +766,7 @@ Fazer upgrade do armazenamento
 	</Estado>
 
 	<Estado>
-		<Nome>São Paulo (SP)</Nome>
+		<Nome>SP</Nome>
 		<ListaMunicipios>
 			<Municipio>
 				<Nome>Americana</Nome>
@@ -1015,6 +978,6 @@ Fazer upgrade do armazenamento
 		</ListaMunicipios>
 	</Estado>
 
-</ListaEstados>	
+</ListaEstados>
 	</Recurso>
 </UbsPac>

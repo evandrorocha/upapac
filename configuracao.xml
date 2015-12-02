@@ -26,7 +26,7 @@
 		  </MapeamentoMetadado>
 		   <MapeamentoMetadado>
 			 <Original>nu_endereco</Original>
-			 <Mapeamento>Endereço</Mapeamento>
+			 <Mapeamento>Número</Mapeamento>
 		  </MapeamentoMetadado>
 		  <MapeamentoMetadado>
 			 <Original>no_bairro</Original>

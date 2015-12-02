@@ -25,7 +25,6 @@
 			 <Mapeamento>Município</Mapeamento>
 		  </MapeamentoMetadado>
 	   </ListaMetadados>
-
 <ListaEstados>
 
 	<Estado>
@@ -661,7 +660,7 @@
 	</Estado>
 	
 	<Estado>
-		<Nome>Rio Grande do Norte (N)</Nome>
+		<Nome>Rio Grande do Norte (RN)</Nome>
 		<ListaMunicipios>
 			<Municipio>
 				<Nome>Macaíba</Nome>
@@ -720,6 +719,12 @@
 			<Municipio>
 				<Nome>Venâncio Aires</Nome>
 			</Municipio>
+		</ListaMunicipios>
+	</Estado>
+			
+	<Estado>
+		<Nome>Santa Catarina (SC)</Nome>
+		<ListaMunicipios>
 			<Municipio>
 				<Nome>Araranguá</Nome>
 			</Municipio>

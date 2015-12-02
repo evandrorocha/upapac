@@ -605,7 +605,7 @@ Fazer upgrade do armazenamento
 	</Estado>
 
 	<Estado>
-		<Nome>RJ</Nome>
+		<Nome>Rio de Janeiro (RJ)</Nome>
 		<ListaMunicipios>
 			<Municipio>
 				<Nome>Angra dos Reis</Nome>
@@ -803,7 +803,7 @@ Fazer upgrade do armazenamento
 	</Estado>
 
 	<Estado>
-		<Nome>SP</Nome>
+		<Nome>São Paulo (SP)</Nome>
 		<ListaMunicipios>
 			<Municipio>
 				<Nome>Americana</Nome>

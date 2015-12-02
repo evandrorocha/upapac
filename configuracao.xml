@@ -16,16 +16,33 @@
 			 <Original>no_fantasia</Original>
 			 <Mapeamento>Nome</Mapeamento>
 		  </MapeamentoMetadado>
+		   <MapeamentoMetadado>
+			 <Original>nu_telefone</Original>
+			 <Mapeamento>telefone</Mapeamento>
+		  </MapeamentoMetadado>
 		  <MapeamentoMetadado>
-			 <Original>uf</Original>
-			 <Mapeamento>Estado</Mapeamento>
+			 <Original>no_logradouro</Original>
+			 <Mapeamento>Logradouro</Mapeamento>
+		  </MapeamentoMetadado>
+		   <MapeamentoMetadado>
+			 <Original>nu_endereco</Original>
+			 <Mapeamento>Endereço</Mapeamento>
+		  </MapeamentoMetadado>
+		  <MapeamentoMetadado>
+			 <Original>no_bairro</Original>
+			 <Mapeamento>Bairro</Mapeamento>
 		  </MapeamentoMetadado>
 		  <MapeamentoMetadado>
 			 <Original>cidade</Original>
 			 <Mapeamento>Município</Mapeamento>
 		  </MapeamentoMetadado>
+		   <MapeamentoMetadado>
+			 <Original>uf</Original>
+			 <Mapeamento>Estado</Mapeamento>
+		  </MapeamentoMetadado>
 	   </ListaMetadados>
-<ListaEstados>
+	   
+	<ListaEstados>
 
 	<Estado>
 		<Nome>Acre (AC)</Nome>

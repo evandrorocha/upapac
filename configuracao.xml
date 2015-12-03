@@ -5,6 +5,7 @@
 		<Url>https://rawgit.com/evandrorocha/upapac/master/dados_upa.csv</Url>
 		<Formato>CSV</Formato>
 		<Dimensao>Georreferenciamento</Dimensao>
+		<teste>fdfsd</teste>
 		<Separador>;</Separador>
 		<CamposObrigatorios>
 		  <Latitude>latitude</Latitude>
